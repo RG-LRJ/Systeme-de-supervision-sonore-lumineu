@@ -1,5 +1,7 @@
 <div align="center">
-![La Roche-Jaudy](img/LOGO-la-roche-jaudy.png)
+  <a href="[La Roche-Jaudy](https://larochejaudy.bzh/)">
+    <img src="img/LOGO-la-roche-jaudy.png" alt="La Roche-Jaudy">
+  </a>
 </div>
 
 # Système de supervision de niveau sonore: Un Outil Ludique de Sensibilisation au Bruit
