@@ -27,3 +27,8 @@ Une fois démarré, il faut installer manuellement plusieurs modules additionnel
 - Matter
 - Zigbee
 - Media player
+
+## Appairage des composants
+
+Une fois le controleur et les modules installés, il faut appairer les bandeau LED et les capteurs sonores.
+Pour se faire, il faut installer l'application Home Assistant sur votre Smartphone indispensable pour l'appairage des capteurs Matter.
