@@ -12,24 +12,23 @@ Ce dispositif est également sonorisé pour permetre de diffuser un message audi
 
 Le système fonctionne ainsi :
 
-| Couleur de la LED | Signification du Niveau Sonore |
+| Couleur de la LED | Niveau sonore | Signification du Niveau Sonore |
 |-------------------|-------------------------------|
-| Vert | Niveau sonore calme / acceptable. |
-| Orange | Niveau sonore élevé dépassant 80dB | 
-| Rouge | Niveau sonore de 80dB dépassé pendant plus de 10s ou niveau sonore supérieur à 85dB |
-| Message Vocal | Lorsque le bandeau LED devient rouge, un message est diffusé : "Pourriez-vous bien faire moins de bruit ? Merci." |
-
-Le seuil critique de 80 décibels (dB), mentionné dans le reportage, est l'équivalent du bruit d'une rue à forte circulation automobile.
+| Vert | > 80dB | Niveau sonore calme / acceptable |
+| Orange | < 80dB |  Niveau sonore élevé | 
+| Rouge | < 80dB (10s) ou < 85dB | Niveau sonore élevé depuis trop longtemps ou niveau sonore beaucoup trop élevé |
+| Message Vocal | < 80dB (10s) ou < 85dB | Message audio diffusé : "Pourriez-vous bien faire moins de bruit ? Merci." |
 
 ## Dans Quel But a-t-il Été Installé ?
 
 L'installation de ce système répond à un problème de nuisance sonore et de santé publique.
+Le seuil critique de 80 décibels est l'équivalent du bruit d'une rue à forte circulation automobile.
 
 ### 1. Lutter contre le Bruit en Cantine 👂
 
 Les cantines sont souvent des lieux où le bruit ambiant (discussions, vaisselle, mouvements) peut être très élevé. Le système a été installé pour :
 
-* **Sensibiliser les enfants :** Leur donner un repère concret et ludique pour comprendre et contrôler le niveau de bruit (le but étant de "rester le plus longtemps sur le vert").
+* **Sensibiliser les enfants :** Leur donner un repère concret et ludique pour s'autogérer et ainsi comprendre et contrôler le niveau de bruit.
 * **Améliorer le comportement :** Inciter à un comportement plus calme et respectueux de l'environnement sonore.
 
 ### 2. Améliorer la Qualité de Vie et la Santé 🩺
